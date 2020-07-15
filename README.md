@@ -1,1 +1,2 @@
-# js_iffy
+# JS Iffy
+Explore JS conditionals and branching
